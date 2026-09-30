@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Suyash%20Chaudhari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Designer%20%C3%97%20Developer%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Web3&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Suyash%20Chaudhari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Designer%20x%20Developer%20|%20Cloud%20and%20DevOps%20|%20Web3&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -124,11 +124,11 @@ Exploring carbon-aware scheduling and energy-efficient cloud workloads.
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Suyash2527&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Pulse" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suyash2527&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suyash2527&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=Suyash2527&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </p>
 
 ---

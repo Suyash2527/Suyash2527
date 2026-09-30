@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [README.md]
 
 permissions:
   contents: write
