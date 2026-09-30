@@ -2,7 +2,7 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -10,6 +10,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: readme-writes
+  cancel-in-progress: false
 
 jobs:
   activity:
@@ -20,5 +24,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "⚡ Update recent activity"
+          COMMIT_MSG: "chore: update recent activity"
           MAX_LINES: 6

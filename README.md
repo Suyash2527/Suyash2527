@@ -1,148 +1,73 @@
-<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Suyash%20Chaudhari&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Designer%20x%20Developer%20|%20Cloud%20and%20DevOps%20|%20Web3&descAlignY=58&descSize=18" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://suyash-chaudhari.web.app">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&multiline=false&width=640&lines=%E2%98%81%EF%B8%8F+Building+on+AWS+%26+Google+Cloud;%E2%9A%99%EF%B8%8F+Automating+everything+with+DevOps;%F0%9F%94%97+Shipping+Web3+%26+blockchain+apps;%F0%9F%8E%A8+Designing+interfaces+people+love;%F0%9F%8E%A4+GDG+Organiser+%26+Tech+Speaker;%F0%9F%9A%80+Open+to+internships+%26+collabs!" alt="Typing SVG" />
-  </a>
-</p>
+<img src="./assets/header.svg" width="100%" alt="suyash@cloud terminal intro"/>
 
-<p align="center">
-  <a href="https://suyash-chaudhari.web.app"><img src="https://img.shields.io/badge/Portfolio-24C6DC?style=for-the-badge&logo=firebase&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/suyash-makrand-chaudhari-23768b316"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:csuyash2506@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Suyash2527&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" />
-</p>
+<a href="https://suyash-chaudhari.web.app"><img src="https://img.shields.io/badge/~%2Fportfolio-0d1117?style=for-the-badge&logo=firebase&logoColor=00ff9c" /></a>
+<a href="https://linkedin.com/in/suyash-makrand-chaudhari-23768b316"><img src="https://img.shields.io/badge/~%2Flinkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=22d3ee" /></a>
+<a href="mailto:csuyash2506@gmail.com"><img src="https://img.shields.io/badge/~%2Fmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f472b6" /></a>
+<img src="https://komarev.com/ghpvc/?username=Suyash2527&style=for-the-badge&color=0d1117&label=%24+visitors" />
 
----
+</div>
 
-## 🧑‍💻 `whoami`
+<br/>
 
-```yaml
-name:        Suyash Makrand Chaudhari
-role:        Cloud & DevOps Engineer (in the making) · Web & Web3 Developer · Designer
-education:   B.E. Computer Engineering @ MET BKC, Nashik — CGPA 8.6 (class of 2028)
-community:   Organiser @ GDG on Campus MET BKC · Core Team @ GDG Nashik
-certified:   AWS Certified Cloud Practitioner ✅
-leveling_up: AWS Solutions Architect – Associate 📚
-currently:   Hunting hackathons, shipping side-projects, contributing to open source
-fun_fact:    I design the UI *and* write the pipeline that deploys it 😎
+## `❯ ls ~/stack`
+
+```bash
+drwxr-xr-x  cloud/     aws  gcp  firebase  docker  kubernetes  terraform  github-actions  linux
+drwxr-xr-x  web/       typescript  react  next.js  node  express  tailwind  mongodb  postgres
+drwxr-xr-x  web3/      solidity  ethers  ipfs  smart-contracts
+drwxr-xr-x  design/    figma  photoshop  illustrator  ui/ux  branding
 ```
 
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center"><b>☁️ Cloud & DevOps</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes,terraform,githubactions,jenkins,linux,bash,nginx&perline=11" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,docker,kubernetes,terraform,githubactions,linux,bash&perline=9&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,tailwind,mongodb,postgres&perline=9&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=solidity,python,java,figma,ps,ai,git,vscode,postman&perline=9&theme=dark" />
 </p>
 
-<p align="center"><b>🌐 Web Development</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres&perline=11" />
-</p>
-
-<p align="center"><b>🔗 Web3 · 🎨 Design · 🧰 Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity,ipfs,python,java,figma,ps,ai,git,github,vscode,postman&perline=11" />
-</p>
-
----
-
-## 🚀 Featured Builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏟️ [StadiumAI](https://github.com/Suyash2527/StadiumAI)
-AI-powered smart-stadium companion for the FIFA World Cup 2026 — built with **Next.js** and GenAI for the *Prompt Wars* competition.
-
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![AI](https://img.shields.io/badge/GenAI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Decentralized KYC Vault
-Blockchain-backed eKYC & identity-verification platform — verify once, share securely everywhere. *(🔒 private — in pitch stage)*
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity)
-![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎨 desyx.11
-My design studio — UI/UX, branding and poster design for startups and communities.
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌱 Green Cloud Research
-Exploring carbon-aware scheduling and energy-efficient cloud workloads.
-
-![Cloud](https://img.shields.io/badge/Sustainable-Cloud-2EA44F?style=flat-square)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Milestones & Community
-
-| | |
-|---|---|
-| 🎖️ | **AWS Certified Cloud Practitioner** |
-| 🌍 | **GSSoC 2026** Open-Source Contributor — Global Rank **#332** |
-| 🎤 | **Speaker** — *Build With AI*, KBT College of Engineering, Nashik |
-| 🧑‍🤝‍🧑 | **Organiser**, GDG on Campus MET BKC · **Core Team**, GDG Nashik |
-| 🇮🇳 | **Smart India Hackathon 2026** — Team CodeVerse |
-| ⚡ | Hackathons: MIT India Hackathon · MindCraft 2K26 · Prompt Wars · YIIC 8.0 |
-| 🎃 | Hosting **Hacktoberfest 2026** at MET BKC — come contribute! |
-
----
-
-## 📊 GitHub Analytics
+## `❯ ./stats --live`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Suyash2527&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash2527&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="./assets/stats.svg" height="320" alt="neofetch-style GitHub stats"/>
+  <img src="./assets/langs.svg" height="320" alt="top languages"/>
+  <img src="./assets/contrib.svg" width="100%" alt="contribution heatmap and streaks"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Suyash2527&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
+<sub>⚙️ cards are rendered by my own GitHub Action (`scripts/gen_cards.py`) every day — no third-party APIs, no rate limits.</sub>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suyash2527&theme=tokyonight" />
-</p>
+## `❯ ls ~/projects --featured`
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Suyash2527&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
+| | project | what it does | stack |
+|---|---|---|---|
+| ⚖️ | **[clauselens](https://github.com/Suyash2527/clauselens)** · [live ↗](https://clauselens-320835628255.asia-south1.run.app/) | Clause-by-clause, plain-language breakdown of legal agreements — scored from *your* side of the deal | `Gemini` `Cloud Run` `TypeScript` |
+| 🛕 | **[Discover Nashik](https://github.com/Suyash2527/Discover_Nashik)** · [live ↗](https://discovernashik.vercel.app) | Offline-first PWA for Kumbh Mela pilgrims — maps, emergency access, voice assistant in Marathi / Hindi / English | `PWA` `TypeScript` `Vercel` |
+| 🤖 | **[TRIForge Interview Agent](https://github.com/Suyash2527/TRIForge-Interview-Agent)** · [live ↗](https://triforge-interview-agent.vercel.app) | Autonomous AI interviewer that adapts questions to candidate performance and outputs structured evaluations | `Agents` `RAG` `TypeScript` |
+| 🏟️ | **[StadiumAI](https://github.com/Suyash2527/StadiumAI)** | AI matchday companion for the FIFA World Cup 2026 with a Soft-UI design | `Next.js` `GenAI` |
+| 🏥 | **[Arogya Setu Dashboard](https://github.com/Suyash2527/Arogya_Setu_Dashboard)** | National health command center — hospital telemetry, Gemini triage, ambulance load-balancing | `React` `Gemini` `Maps API` |
+| 🌱 | **[EcoTrace](https://github.com/Suyash2527/EcoTrace)** | AI-powered carbon-footprint tracker for individuals and families | `TypeScript` `AI` |
+| 🔐 | **Decentralized KYC Vault** | Blockchain-backed eKYC — verify once, share securely everywhere <sub>(private · pitch stage)</sub> | `Solidity` `Node` `React` |
 
----
+## `❯ tail -f ~/journey.log`
 
-## ⚡ Recent Activity
+```log
+[2026-09] ✔ SPEAKER     "Build With AI" — KBT College of Engineering, Nashik
+[2026-09] ✔ ORGANISER   GDG on Campus MET BKC  ·  hosting Hacktoberfest 2026 🎃
+[2026]    ✔ OPEN SOURCE GSSoC 2026 contributor — global rank #332
+[2026]    ✔ HACKATHONS  Smart India Hackathon · MIT India Hackathon · MindCraft 2K26 · PromptWars
+[done]    ✔ CERTIFIED   AWS Certified Cloud Practitioner
+[now]     ⟳ LOADING     AWS Solutions Architect – Associate ▓▓▓▓▓▓▓░░░
+[always]  ♥ COMMUNITY   Core Team · GDG Nashik
+```
+
+## `❯ git log --oneline -6 --all-repos`
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/Suyash2527/Discover_Nashik/pull/1) in [Suyash2527/Discover_Nashik](https://github.com/Suyash2527/Discover_Nashik)
 2. 💪 Opened PR [#1](https://github.com/Suyash2527/Discover_Nashik/pull/1) in [Suyash2527/Discover_Nashik](https://github.com/Suyash2527/Discover_Nashik)
 <!--END_SECTION:activity-->
 
----
-
-## 🐍 Watch the Snake Eat My Contributions
+## `❯ snake --eat contributions`
 
 <p align="center">
   <picture>
@@ -152,19 +77,13 @@ Exploring carbon-aware scheduling and energy-efficient cloud workloads.
   </picture>
 </p>
 
----
+## `❯ ssh collab@suyash`
 
-## 🤝 Let's Build Something
+```console
+Connection established ✔
+> open to: cloud/devops internships · hackathon teams · open-source collabs · design gigs
+> reach me: csuyash2506@gmail.com
+> response time: < 24h
+```
 
-<p align="center">
-  I'm always up for <b>hackathon teams</b>, <b>open-source collabs</b>, <b>cloud/DevOps internships</b> and <b>design gigs</b>.<br/>
-  <a href="mailto:csuyash2506@gmail.com"><b>Drop me a line →</b></a>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-</p>
+<p align="center"><sub><code>suyash@cloud:~$ exit</code> — thanks for stopping by ⚡</sub></p>
