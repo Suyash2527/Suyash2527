@@ -136,6 +136,8 @@ Exploring carbon-aware scheduling and energy-efficient cloud workloads.
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/Suyash2527/Discover_Nashik/pull/1) in [Suyash2527/Discover_Nashik](https://github.com/Suyash2527/Discover_Nashik)
+2. 💪 Opened PR [#1](https://github.com/Suyash2527/Discover_Nashik/pull/1) in [Suyash2527/Discover_Nashik](https://github.com/Suyash2527/Discover_Nashik)
 <!--END_SECTION:activity-->
 
 ---
