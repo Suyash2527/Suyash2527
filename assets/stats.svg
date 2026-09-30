@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="350" viewBox="0 0 520 350" role="img" aria-label="neofetch">
+<style>
+text{font-family:'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mono',Menlo,monospace;}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+.f{opacity:0;animation:fade .45s ease-out forwards}
+.cur{animation:blink 1s step-end infinite}
+
+</style>
+<rect x="0.5" y="0.5" width="519" height="349" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0.5 36V10.5a10 10 0 0 1 10-10h499a10 10 0 0 1 10 10V36z" fill="#161b22"/>
+<line x1="0.5" y1="36" x2="519.5" y2="36" stroke="#30363d"/>
+<circle cx="20" cy="18" r="6" fill="#ff5f57"/><circle cx="40" cy="18" r="6" fill="#febc2e"/><circle cx="60" cy="18" r="6" fill="#28c840"/>
+<text x="260.0" y="23" text-anchor="middle" font-size="12.5" fill="#8b949e">neofetch</text>
+<g class="f" style="animation-delay:0.10s"><text x="24" y="64" font-size="13" xml:space="preserve"><tspan fill="#00ff9c">suyash</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#22d3ee">cloud</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#f59e0b">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">neofetch --github</tspan></text></g>
+<defs><linearGradient id="gs" gradientUnits="userSpaceOnUse" x1="30" x2="134" y1="0" y2="0"><stop offset="0" stop-color="#00ff9c"/><stop offset="1" stop-color="#22d3ee"/></linearGradient></defs>
+<rect class="f" style="animation-delay:0.30s" x="30.0" y="92.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.32s" x="43.0" y="92.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.34s" x="56.0" y="92.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.35s" x="69.0" y="92.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.37s" x="82.0" y="92.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.39s" x="95.0" y="92.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.41s" x="108.0" y="92.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<path class="f" style="animation-delay:0.43s" d="M121.0 102.0H127.5 M127.5 102.0V112.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<rect class="f" style="animation-delay:0.30s" x="30.0" y="112.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.32s" x="43.0" y="112.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<path class="f" style="animation-delay:0.34s" d="M69.0 122.0H62.5 M62.5 122.0V132.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.35s" d="M69.0 122.0H82.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.37s" d="M82.0 122.0H95.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.39s" d="M95.0 122.0H108.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.41s" d="M108.0 122.0H121.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.43s" d="M121.0 122.0H127.5 M127.5 122.0V112.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<rect class="f" style="animation-delay:0.30s" x="30.0" y="132.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.32s" x="43.0" y="132.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.34s" x="56.0" y="132.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.35s" x="69.0" y="132.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.37s" x="82.0" y="132.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.39s" x="95.0" y="132.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.41s" x="108.0" y="132.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<path class="f" style="animation-delay:0.43s" d="M121.0 142.0H127.5 M127.5 142.0V152.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.30s" d="M43.0 162.0H36.5 M36.5 162.0V152.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.32s" d="M43.0 162.0H56.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.34s" d="M56.0 162.0H69.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.35s" d="M69.0 162.0H82.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.37s" d="M82.0 162.0H95.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<rect class="f" style="animation-delay:0.39s" x="95.0" y="152.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.41s" x="108.0" y="152.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<path class="f" style="animation-delay:0.43s" d="M127.5 152.0V172.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<rect class="f" style="animation-delay:0.30s" x="30.0" y="172.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.32s" x="43.0" y="172.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.34s" x="56.0" y="172.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.35s" x="69.0" y="172.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.37s" x="82.0" y="172.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.39s" x="95.0" y="172.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<rect class="f" style="animation-delay:0.41s" x="108.0" y="172.0" width="13.8" height="20.8" fill="url(#gs)"/>
+<path class="f" style="animation-delay:0.43s" d="M127.5 172.0V192.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.30s" d="M43.0 202.0H36.5 M36.5 202.0V192.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.32s" d="M43.0 202.0H56.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.34s" d="M56.0 202.0H69.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.35s" d="M69.0 202.0H82.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.37s" d="M82.0 202.0H95.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.39s" d="M95.0 202.0H108.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.41s" d="M108.0 202.0H121.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<path class="f" style="animation-delay:0.43s" d="M121.0 202.0H127.5 M127.5 202.0V192.0" stroke="#1f6f5a" stroke-width="2" fill="none"/>
+<text x="170" y="92" font-size="14" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.40s"><tspan fill="#00ff9c" font-weight="bold">suyash</tspan><tspan fill="#8b949e">@</tspan><tspan fill="#22d3ee" font-weight="bold">github</tspan></text>
+<text x="170" y="108" font-size="12" font-weight="normal" fill="#484f58" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.45s">──────────────────────</text>
+<text x="170" y="132" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.55s">Joined</text>
+<text x="305" y="132" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.55s">2024  ·  2y uptime</text>
+<text x="170" y="152" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.62s">Public repos</text>
+<text x="305" y="152" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.62s">19</text>
+<text x="170" y="172" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.69s">Stars earned</text>
+<text x="305" y="172" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.69s">40</text>
+<text x="170" y="192" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.76s">Commits (1y)</text>
+<text x="305" y="192" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.76s">310</text>
+<text x="170" y="212" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.83s">Contribs (1y)</text>
+<text x="305" y="212" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.83s">460</text>
+<text x="170" y="232" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.90s">Contribs (all)</text>
+<text x="305" y="232" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.90s">470</text>
+<text x="170" y="252" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.97s">PRs · Issues</text>
+<text x="305" y="252" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.97s">29 · 58</text>
+<text x="170" y="272" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.04s">Contributed to</text>
+<text x="305" y="272" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.04s">44 repos</text>
+<text x="170" y="292" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.11s">Streak</text>
+<text x="305" y="292" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.11s">0d now · 18d best</text>
+<text x="170" y="312" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.18s">Followers</text>
+<text x="305" y="312" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.18s">15</text>
+<rect class="f" style="animation-delay:1.4s" x="30" y="240" width="22" height="22" rx="3" fill="#ff5f57"/>
+<rect class="f" style="animation-delay:1.4s" x="56" y="240" width="22" height="22" rx="3" fill="#febc2e"/>
+<rect class="f" style="animation-delay:1.4s" x="82" y="240" width="22" height="22" rx="3" fill="#28c840"/>
+<rect class="f" style="animation-delay:1.4s" x="108" y="240" width="22" height="22" rx="3" fill="#22d3ee"/>
+<rect class="f" style="animation-delay:1.4s" x="30" y="266" width="22" height="22" rx="3" fill="#818cf8"/>
+<rect class="f" style="animation-delay:1.4s" x="56" y="266" width="22" height="22" rx="3" fill="#f472b6"/>
+<rect class="f" style="animation-delay:1.4s" x="82" y="266" width="22" height="22" rx="3" fill="#00ff9c"/>
+<rect class="f" style="animation-delay:1.4s" x="108" y="266" width="22" height="22" rx="3" fill="#c9d1d9"/>
+<text x="30" y="318" font-size="10.5" font-weight="normal" fill="#484f58" text-anchor="start" xml:space="preserve">synced 30 Sep 2026</text>
+</svg>
