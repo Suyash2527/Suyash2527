@@ -68,21 +68,21 @@ text{font-family:'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mon
 <text x="170" y="132" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.55s">Joined</text>
 <text x="305" y="132" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.55s">2024  ·  2y uptime</text>
 <text x="170" y="152" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.62s">Public repos</text>
-<text x="305" y="152" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.62s">19</text>
+<text x="305" y="152" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.62s">20</text>
 <text x="170" y="172" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.69s">Stars earned</text>
 <text x="305" y="172" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.69s">40</text>
 <text x="170" y="192" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.76s">Commits (1y)</text>
-<text x="305" y="192" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.76s">310</text>
+<text x="305" y="192" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.76s">316</text>
 <text x="170" y="212" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.83s">Contribs (1y)</text>
-<text x="305" y="212" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.83s">460</text>
+<text x="305" y="212" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.83s">467</text>
 <text x="170" y="232" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.90s">Contribs (all)</text>
-<text x="305" y="232" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.90s">470</text>
+<text x="305" y="232" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.90s">477</text>
 <text x="170" y="252" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.97s">PRs · Issues</text>
-<text x="305" y="252" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.97s">29 · 58</text>
+<text x="305" y="252" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:0.97s">28 · 57</text>
 <text x="170" y="272" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.04s">Contributed to</text>
-<text x="305" y="272" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.04s">44 repos</text>
+<text x="305" y="272" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.04s">43 repos</text>
 <text x="170" y="292" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.11s">Streak</text>
-<text x="305" y="292" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.11s">0d now · 18d best</text>
+<text x="305" y="292" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.11s">1d now · 18d best</text>
 <text x="170" y="312" font-size="13" font-weight="bold" fill="#22d3ee" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.18s">Followers</text>
 <text x="305" y="312" font-size="13" font-weight="normal" fill="#c9d1d9" text-anchor="start" xml:space="preserve" class="f" style="animation-delay:1.18s">15</text>
 <rect class="f" style="animation-delay:1.4s" x="30" y="240" width="22" height="22" rx="3" fill="#ff5f57"/>
@@ -93,5 +93,5 @@ text{font-family:'JetBrains Mono','Fira Code','SF Mono',Consolas,'Liberation Mon
 <rect class="f" style="animation-delay:1.4s" x="56" y="266" width="22" height="22" rx="3" fill="#f472b6"/>
 <rect class="f" style="animation-delay:1.4s" x="82" y="266" width="22" height="22" rx="3" fill="#00ff9c"/>
 <rect class="f" style="animation-delay:1.4s" x="108" y="266" width="22" height="22" rx="3" fill="#c9d1d9"/>
-<text x="30" y="318" font-size="10.5" font-weight="normal" fill="#484f58" text-anchor="start" xml:space="preserve">synced 30 Sep 2026</text>
+<text x="30" y="318" font-size="10.5" font-weight="normal" fill="#484f58" text-anchor="start" xml:space="preserve">synced 01 Oct 2026</text>
 </svg>
